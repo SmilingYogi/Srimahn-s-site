@@ -84,7 +84,7 @@ body
 		#photo img
 		{
 			position:relative;
-			left:50vh;
+			left:50vw;
 			padding-top:30px;
 			width:500px;
 		}
